@@ -1,0 +1,31 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: white;
+  
+}
+h1{
+  color: blue;
+  text-align: center;
+}
+.mine{
+  text-align: center;
+  color: red;
+  background-color: black;
+}
+h2{
+  text-align: center;
+}
+.new{
+  background-color: gold;
+  padding-left: 29%;
+  height: 50px;
+  
+}
+.JHON{
+  font-size:30px;
+  float: center;
+  color: white;
+}
