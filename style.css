@@ -3,8 +3,7 @@
   margin: 0px;
 }
 .whole{
-  background-color: transparent;
-  width: 100%;
+  background-color: black;
 }
 .navi{
   margin: auto;
@@ -40,7 +39,7 @@
   height: 100%;
   width: 70%;
   margin-top: 10px;
-  background-color: transparent;
+  background: linear-gradient(90deg, rgba(254,0,0,1) 0%, rgba(211,246,0,1) 18%, rgba(72,145,163,1) 36%, rgba(39,114,255,1) 63%, rgba(255,0,250,1) 80%, rgba(10,0,255,1) 100%);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -66,6 +65,21 @@
   background-color: #1c87c9;
   box-shadow: 0 5px 0 #105cad;
   color: white;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  font-size: 25px;
+}
+.bottonoff{
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  height: 5vh;
+  width: 80%;
+  background-color: #1c87c9;
+  box-shadow: 0 5px 0 #105cad;
+  color: gold;
   text-decoration: none;
   display: inline-block;
   text-align: center;
